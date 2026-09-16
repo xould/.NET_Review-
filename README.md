@@ -22,3 +22,13 @@ Example: Stack Overflow uses .NET Core to power its high-performance web applica
 2) Mobile applications:  Using **.NET MAUI** (the successor to **Xamarin**, which reached end-of-life in May 2024), developers can build native mobile apps for both iOS and Android from a single codebase, speeding up development and reducing maintenance.  
 
 3) AI and machine learning: The **ML.NET** library enables developers to add machine learning features to .NET applications, enhancing data-driven insights.
+
+
+---------------------------------------------------
+_Key components of .NET Framework_
+1. CLR (Common Language Runtime) - allows code written in multiple programming languages to run as a single program by compiling that code into CIL(intemediary)
+2. BCL (Base Class Library) - provides a standardized collection of classes, interface, and value types for .NET development => Cohesive/ Consistent
+
+* Limitations: tightly coupled to only Windows (x macOS and Linux) / Monolithic structure(more components than necessary)
+
+  
