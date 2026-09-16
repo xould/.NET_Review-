@@ -21,4 +21,4 @@ Example: Stack Overflow uses .NET Core to power its high-performance web applica
 
 2) Mobile applications:  Using **.NET MAUI** (the successor to **Xamarin**, which reached end-of-life in May 2024), developers can build native mobile apps for both iOS and Android from a single codebase, speeding up development and reducing maintenance.  
 
-AI and machine learning: The **ML.NET** library enables developers to add machine learning features to .NET applications, enhancing data-driven insights.
+3) AI and machine learning: The **ML.NET** library enables developers to add machine learning features to .NET applications, enhancing data-driven insights.
