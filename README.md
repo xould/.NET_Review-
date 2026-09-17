@@ -33,3 +33,16 @@ _Key components of .NET Framework_
 
   
 .NET includes tools and features that make it easy to create, deploy, and manage applications in the Cloud (like Azure)
+
+-----------------------------------------------------
+.Net : top-level statements = I can write C# code w/o using a namespace, wrapper class or main method
+
+control structure : if/else statement , switch statement (simplify complex conditional logic)
+if (userInput == correctPassword)
+{
+  access = true;
+  }
+else
+{
+  access = false;
+  }
