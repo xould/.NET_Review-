@@ -32,3 +32,4 @@ _Key components of .NET Framework_
 * Limitations: tightly coupled to only Windows (x macOS and Linux) / Monolithic structure(more components than necessary)
 
   
+.NET includes tools and features that make it easy to create, deploy, and manage applications in the Cloud (like Azure)
