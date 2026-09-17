@@ -1,7 +1,7 @@
 # .NET_Review-
 Study .NET and Microsoft Copilot
 
-What is .NET:  powerful platform for creating scalable, cross-platform web, desktop, and mobile applications. 
+What is .NET:  powerful platform for creating scalable, **cross-platform web**, desktop, and mobile applications. 
 
 * .net run on 3 different servers: Kestrel, HTTP Sys(TLS-transport layer security) performance good), IS
 [david fouler, steven tobe, mayoni stevenson -.net blog]
